@@ -46,5 +46,5 @@ jobs:
       # Step 6: Run Unit testing
       - name: Run unit testing
         run: |
-          cd tests
+          cd test
           make clean all
